@@ -35,4 +35,8 @@ Similar to the above.<br>
 Supported Platforms: Windows 10/11, Linux AppImage, Linux ARM via AppImage, Docker (AMD64, ARMv7, ARM64)<br>
 Allowed IPs: Residential
 
-
+## Paid Advertising
+- [addslice.com](https://addslice.com/?crew=xR3Zy)
+A browser extension which injects adds into your browsing. You can safely use an adblocker with this.<br>
+You earn "slices" for each advertisement viwed, and you can withdraw using PayPal or BitCoin.<br>
+No minimum to cashout.<br>
