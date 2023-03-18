@@ -1,6 +1,7 @@
 # Idle-Money-Earning-Apps
-Need some more money, because you are a cash strapped student?
-If you have a spare laptop, and cheap electricity and/or extra bandwidth this might be for you.
+Need some more money, because you are a cash strapped student?<br>
+If you have a spare laptop, and cheap electricity and/or extra bandwidth this might be for you.<br>
+**PR's with new services confirmed to work are welcome.**
 
 ## CPU/GPU work
 - [salad.com](https://salad.com/download)<br>
